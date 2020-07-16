@@ -13,6 +13,8 @@ A final year CSE Student at Sir M. Visvesvaraya Institute of Technology, Bangalo
 
 Besides all things technical, I'm a lifelong Liverpool FC fan :soccer:, love to try out my hands at different musical instruments such as Violin :violin:, Guitar :guitar: and Piano :musical_keyboard:, play video games :video_game:, talk about Politics :speech_balloon: and write poetry :black_nib:
 
+[link](https://aafavavasva.xyz)
+
  
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
