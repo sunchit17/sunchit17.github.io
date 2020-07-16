@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Writing & Communication
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Public Speaking
+  percentage: 70
+  color: info
+ 
+- name: Team Leadership
+  percentage: 70
+  color: info
+
+- name: Problem Solving
+  percentage: 75
+  color: info
