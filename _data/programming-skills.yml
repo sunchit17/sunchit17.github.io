@@ -1,11 +1,47 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Flutter
+  percentage: 80
   color: danger
 
-- name: Go
-  percentage: 80
+- name: JAVA
+  percentage: 70
   color:
 
 - name: Python
+  percentage: 70
+  color: dark
+  
+- name: C
+  percentage: 70
+  color: danger
+
+- name: DS & Algorithms
+  percentage: 60
+  color: 
+  
+- name: Django
+  percentage: 50
+  color: dark
+  
+- name: Git & GitHub
+  percentage: 70
+  color: danger
+  
+- name: SQL
+  percentage: 50
+  color:
+
+- name: Firebase
+  percentage: 60
+  color: dark
+
+- name: HTML5 & CSS
+  percentage: 50
+  color: danger
+
+- name: REST
+  percentage: 60
+  color:
+
+- name: TKinter
   percentage: 70
   color: dark
