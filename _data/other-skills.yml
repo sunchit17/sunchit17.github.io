@@ -1,7 +1,7 @@
-- name: Writing & Communication
+- name: Communication
   percentage: 80
   color: info
-
+ 
 - name: Public Speaking
   percentage: 70
   color: info
