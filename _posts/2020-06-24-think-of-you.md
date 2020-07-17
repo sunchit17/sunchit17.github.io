@@ -2,7 +2,7 @@
 title: Think of You
 tags: [Poetry]
 style: fill
-color: warning
+color: light
 description: 
 ---
 
