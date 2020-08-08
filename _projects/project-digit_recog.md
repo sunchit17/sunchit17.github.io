@@ -14,6 +14,6 @@ description: Digit Recognizer with Voice Feedback in Flutter
 
 - Text To Speech feedback for visually-challenged users
 
-> (WIP) This tool is intended for visually-challenged users to improve their writing skills with a speech feedback
+### (WIP) This tool is intended for visually-challenged users to improve their writing skills with a speech feedback
 
 ![](/assets/digit1.jpg)
