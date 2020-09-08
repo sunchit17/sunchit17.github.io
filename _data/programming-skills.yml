@@ -1,47 +1,23 @@
-- name: Flutter
+- name: Flutter & Firebase
   percentage: 80
   color: danger
 
-- name: JAVA
+- name: C,JAVA & Python
   percentage: 70
   color:
-
-- name: Python
-  percentage: 70
-  color: dark
-  
-- name: C
-  percentage: 70
-  color: danger
 
 - name: DS & Algorithms
   percentage: 60
-  color: 
-  
-- name: Django
-  percentage: 50
   color: dark
+  
+- name: REST, HTML5, MySQL
+  percentage: 60
+  color: danger
   
 - name: Git & GitHub
   percentage: 70
-  color: danger
-  
-- name: SQL
-  percentage: 50
-  color:
+  color: 
 
-- name: Firebase
+- name: Django & TKinter
   percentage: 60
-  color: dark
-
-- name: HTML5 & CSS
-  percentage: 50
-  color: danger
-
-- name: REST
-  percentage: 60
-  color:
-
-- name: TKinter
-  percentage: 70
   color: dark
