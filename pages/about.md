@@ -19,12 +19,16 @@ Besides all things technical, I'm a lifelong Liverpool FC fan :soccer:, love to 
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
-<div class="row">
-{% include about/timeline.html title="Education" %}
-</div>
+## EDUCATION
 
 <div class="row">
-{% include about/internship.html title="Internships" %}
+{% include about/timeline.html %}
+</div>
+
+## INTERNSHIPS
+
+<div class="row">
+{% include about/internship.html %}
 </div>
 
 
