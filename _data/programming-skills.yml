@@ -3,15 +3,15 @@
   color: danger
 
 - name: C,JAVA & Python
-  percentage: 70
+  percentage: 80
   color:
 
 - name: DS & Algorithms
-  percentage: 60
+  percentage: 70
   color: dark
   
-- name: REST, HTML5, MySQL
-  percentage: 60
+- name: REST, HTML5 & MySQL
+  percentage: 70
   color: danger
   
 - name: Git & GitHub
