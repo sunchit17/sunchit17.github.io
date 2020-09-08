@@ -20,5 +20,11 @@ Besides all things technical, I'm a lifelong Liverpool FC fan :soccer:, love to 
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html title="Education" %}
 </div>
+
+<div class="row">
+{% include about/internship.html title="Internships" %}
+</div>
+
+
