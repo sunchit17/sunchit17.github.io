@@ -44,8 +44,8 @@ Explanation:
 1 - only 2 divides 4 & 6  
 1 - only 3 divides 3,18,36 & 54  
 2 - 2 and 3 both divide 18,36 & 54  
-
-#### I was able to solve this question :D but failed one of the hidden test cases :(
+ 
+I was able to solve this question :D but failed one of the hidden test cases :(
 
 - **SECOND QUESTION**    
 Given an array A of cost of alphabets (lower case only) (size - 26), where A[i] represents the cost of the i<sup>th</sup> alphabet,
@@ -59,9 +59,9 @@ Output:
 "yz"
 
 Explanation:  
-"yz" has weight 77 and is lexicographically largest.
+"yz" has weight 77 and is lexicographically largest.  
 
-#### Wasn't able to solve this question :(  
+Wasn't able to solve this question :(  
 
 ***
 
