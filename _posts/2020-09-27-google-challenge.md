@@ -23,49 +23,50 @@ My set of questions are mentioned below :
 - **FIRST QUESTION**  
 Given an array A of N integers, we have to perform Q queries of type:
 
-L R
+L R  
 determine the count of distinct prime numbers that divide all array values from index L to R.
 
 Note: Have to store each query output in an array.
 
-Example:
+Example:  
 A = {4,6,3,18,36,54}
 Q = 3
 query = {{0,1},{2,5},{3,5}}
 
-Output:
+Output:  
 1
 1
 2
 
-Explanation:
+Explanation:  
 1 - only 2 divides 4 & 6
 1 - only 3 divides 3,18,36 & 54
 2 - 2 and 3 both divide 18,36 & 54
 
-##### I was able to solve this question :D but failed one of the hidden test cases :(
+#### I was able to solve this question :D but failed one of the hidden test cases :(
 
-- **SECOND QUESTION**  
+- **SECOND QUESTION**    
 Given an array A of cost of alphabets (lower case only) (size - 26), where A[i] represents the cost of the i<sup>th</sup> alphabet,
 construct the lexicographically largest string 'S' such that the cost is exactly 'W' (repetition is allowed)
 
-Example:
+Example:  
 A = {1,3,4,5,7,8,9,15,6,7,4,3,12,4,5,6,7,8,12,45,6,21,32,9,76,1}
 W = 77
 
-Output:
+Output:  
 "yz"
 
-Explanation:
+Explanation:  
 "yz" has weight 77 and is lexicographically largest.
 
-##### Wasn't able to solve this question :(
+#### Wasn't able to solve this question :(
 
 
 ### EXPERIENCE
 
 After appearing in the challenge, I believe I have to work harder on my skills so that I achieve what I've set for myself.
-The level of questions was somewhere between medium and hard, in my opinion. 
+The level of questions was somewhere between medium and hard, in my opinion.  
+Have to keep looking forward and keep working on my problem solving skills :zap:
 
 _Thanks_
 
