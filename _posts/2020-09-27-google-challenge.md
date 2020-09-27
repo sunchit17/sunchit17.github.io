@@ -20,7 +20,7 @@ challenge. I was fortunate enough to receive the invite which surely serves as a
 
 My set of questions are mentioned below :
 
-- **FIRST QUESTION**
+- **FIRST QUESTION**  
 Given an array A of N integers, we have to perform Q queries of type:
 
 L R
@@ -45,7 +45,7 @@ Explanation:
 
 ##### I was able to solve this question :D but failed one of the hidden test cases :(
 
-- **SECOND QUESTION**
+- **SECOND QUESTION**  
 Given an array A of cost of alphabets (lower case only) (size - 26), where A[i] represents the cost of the i<sup>th</sup> alphabet,
 construct the lexicographically largest string 'S' such that the cost is exactly 'W' (repetition is allowed)
 
