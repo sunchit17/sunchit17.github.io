@@ -12,8 +12,7 @@ In this post, I'll be sharing my experience about GOCC18: Google Online Challeng
 The challenge was live on 26th September,2020 15:00 IST and ran till 26th September,2020 20:00 IST.   
 The test was conducted on HackerEarth and consisted of two coding questions to be completed within a 60 minute window.    
 
-Prior to this round, the candidates were shortlisted on the basis of their resume/cv and those shortlisted were sent the invite for the  
-challenge.   
+Prior to this round, the candidates were shortlisted on the basis of their resume/cv and those shortlisted were sent the invite for the challenge.  
 I was fortunate enough to receive the invite which surely serves as a great psychological boost given the current campus placement scenario.    
 
 ***
