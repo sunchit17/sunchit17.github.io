@@ -52,7 +52,7 @@ Given an array A of cost of alphabets (lower case only) (size - 26), where A[i] 
 construct the lexicographically largest string 'S' such that the cost is exactly 'W' (repetition is allowed)
 
 Example:  
-A = [1,3,4,5,7,8,9,15,6,7,4,3,12,4,5,6,7,8,12,45,6,21,32,9,76,1]
+A = [1,3,4,5,7,8,9,15,6,7,4,3,12,4,5,6,7,8,12,45,6,21,32,9,76,1]  
 W = 77
 
 Output:  
