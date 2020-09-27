@@ -31,19 +31,19 @@ determine the count of distinct prime numbers that divide all array values from 
 Note: Have to store each query output in an array.
 
 Example:  
-A = {4,6,3,18,36,54}
-Q = 3
+A = {4,6,3,18,36,54}  
+Q = 3  
 query = {{0,1},{2,5},{3,5}}
 
 Output:  
-1
-1
-2
+1  
+1  
+2  
 
 Explanation:  
-1 - only 2 divides 4 & 6
-1 - only 3 divides 3,18,36 & 54
-2 - 2 and 3 both divide 18,36 & 54
+1 - only 2 divides 4 & 6  
+1 - only 3 divides 3,18,36 & 54  
+2 - 2 and 3 both divide 18,36 & 54  
 
 #### I was able to solve this question :D but failed one of the hidden test cases :(
 
@@ -52,7 +52,7 @@ Given an array A of cost of alphabets (lower case only) (size - 26), where A[i] 
 construct the lexicographically largest string 'S' such that the cost is exactly 'W' (repetition is allowed)
 
 Example:  
-A = {1,3,4,5,7,8,9,15,6,7,4,3,12,4,5,6,7,8,12,45,6,21,32,9,76,1}
+A = {1,3,4,5,7,8,9,15,6,7,4,3,12,4,5,6,7,8,12,45,6,21,32,9,76,1}  
 W = 77
 
 Output:  
