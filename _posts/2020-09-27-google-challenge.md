@@ -13,7 +13,9 @@ The challenge was live on 26th September,2020 15:00 IST and ran till 26th Septem
 The test was conducted on HackerEarth and consisted of two coding questions to be completed within a 60 minute window.  
 
 Prior to this round, the candidates were shortlisted on the basis of their resume/cv and those shortlisted were sent the invite for the 
-challenge. I was fortunate enough to receive the invite which surely serves as a great psychological boost given the current campus placement scenario.
+challenge. I was fortunate enough to receive the invite which surely serves as a great psychological boost given the current campus placement scenario.  
+
+***
 
 
 ### THE CHALLENGE
@@ -59,16 +61,18 @@ Output:
 Explanation:  
 "yz" has weight 77 and is lexicographically largest.
 
-#### Wasn't able to solve this question :(
+#### Wasn't able to solve this question :(  
+
+***
 
 
 ### EXPERIENCE
 
 After appearing in the challenge, I believe I have to work harder on my skills so that I achieve what I've set for myself.
 The level of questions was somewhere between medium and hard, in my opinion.  
-Have to keep looking forward and keep working on my problem solving skills :zap:
+Have to keep looking forward and keep working on my problem solving skills :zap:  
 
-_Thanks_
+**_Thanks_**
 
 
 
