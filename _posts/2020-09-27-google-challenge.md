@@ -1,6 +1,6 @@
 ---
 title: Google Online Challenge Experience
-tags: [google, coding, dsa]
+tags: [Google, Coding, DSA]
 style: fill
 color: primary
 description: GOCC18 - Google Online Challenge-Coding-New Grad(India)
